@@ -11,6 +11,8 @@ cover: "/assets/keyword_extraction.png"
 
 In this blog post, we will introduce KeyRelBERT, a novel approach for keyword extraction and relation extraction that builds on [KeyBERT](https://github.com/MaartenGr/KeyBERT)'s foundations. KeyRelBERT is designed to extract not only the most relevant keywords and keyphrases from a document but also to identify the relationships between them. It is a streamlined pipeline for keyword extraction and relation extraction technique that leverages SentenceTransformers embeddings to expand keyword extraction & employs unsupervised similarity computation for relation extraction.
 
+![Keyword Extraction](https://chaiwithpy.github.io/assets/keyword_extraction.png)
+
 ### Keyword Extraction
 
 Keyword extraction is an NLP task that involves the automated detection of primary/most important words or phrases in a given sentence or document. The primary objective of keyword extraction is to extract a small set of words or phrases that capture the essence of a document's content. It is commonly used in various NLP applications such as text classification and information retrieval.
@@ -19,7 +21,7 @@ Keyword extraction techniques can be broadly classified into two categories: sup
 
 ### Relation Extraction
 
-![Relation Extraction](assets/relation_extraction.png)
+![Relation Extraction](https://chaiwithpy.github.io/assets/relation_extraction.png)
 
 Relation extraction is a natural language processing task that involves identifying and extracting semantic relationships between entities mentioned in text. The goal of relation extraction is to extract structured information from unstructured text by identifying the relationships between entities such as people, organizations, and locations. It can be used for question-answering, chatbots, and even knowledge-base construction.
 
@@ -148,4 +150,5 @@ print(relations)
 
 I hope this methodology for relation extraction is useful for shorter-scale NLP projects.
 
-### Check out the Twitter Post at: https://twitter.com/AmanPriyanshu6/status/1635023615698821120
+### Check out the Twitter Post at: 
+[Twitter Post](https://twitter.com/AmanPriyanshu6/status/1635023615698821120)
