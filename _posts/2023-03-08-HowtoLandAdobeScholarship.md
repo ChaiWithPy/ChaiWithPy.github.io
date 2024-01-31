@@ -84,12 +84,6 @@ A piece of advice here would be to be considerate even when provided with sugges
 
 Remember to stay calm during interviews. Believe in yourself because you never know what’s going to arrive in your email after two weeks xD.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Adobe.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
 ## Closing Thoughts
 
 As anxious as I was during the application stage, so was I cool during my interviews. For me, getting my application shortlisted was a huge deal in itself. So I was okay with the decision not favouring me because I was proud of my courage anyway. I think that really helped since, without the stress of tanking the interview, I could be free and confident with the answers I provided. 
