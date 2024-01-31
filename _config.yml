@@ -60,7 +60,7 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-  - cat: non-technical-blogs
+  - cat: nontech
     desc: "Non Technical Blogs"
 
 # Social icons and sharing options
