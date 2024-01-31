@@ -4,6 +4,7 @@ title: "KeyRelBERT"
 date: 2023-03-12T00:00:00-00:00
 author: Aman Priyanshu
 categories: technical-blogs
+cover: "/assets/keyword_extraction.png"
 ---
 
 ## Introduction
@@ -12,23 +13,13 @@ In this blog post, we will introduce KeyRelBERT, a novel approach for keyword ex
 
 ### Keyword Extraction
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/keyword_extraction.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
 Keyword extraction is an NLP task that involves the automated detection of primary/most important words or phrases in a given sentence or document. The primary objective of keyword extraction is to extract a small set of words or phrases that capture the essence of a document's content. It is commonly used in various NLP applications such as text classification and information retrieval.
 
 Keyword extraction techniques can be broadly classified into two categories: supervised and unsupervised. KeyBERT employs an unsupervised approach towards keyword extraction by comparing and ranking candidate word embeddings against the document embeddings.
 
 ### Relation Extraction
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/relation_extraction.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+![Relation Extraction](assets/relation_extraction.png)
 
 Relation extraction is a natural language processing task that involves identifying and extracting semantic relationships between entities mentioned in text. The goal of relation extraction is to extract structured information from unstructured text by identifying the relationships between entities such as people, organizations, and locations. It can be used for question-answering, chatbots, and even knowledge-base construction.
 
@@ -157,6 +148,4 @@ print(relations)
 
 I hope this methodology for relation extraction is useful for shorter-scale NLP projects.
 
-### Twitter Post:
-
-{% twitter https://twitter.com/AmanPriyanshu6/status/1635023615698821120 %}
+### Check out the Twitter Post at: https://twitter.com/AmanPriyanshu6/status/1635023615698821120
