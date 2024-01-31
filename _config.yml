@@ -82,9 +82,9 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
+    username: ChaiWithPy
+    url: https://twitter.com/ChaiWithPy1
+    desc: Follow us on Twitter
     share: true
 
   - name: Facebook
@@ -92,28 +92,28 @@ social:
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
-    share: false
+    username: ChaiWithPy
+    url: https://github.com/ChaiWithPy
+    desc: Our GitHub
+    share: true
 
   - name: LinkedIn
     icon: linkedin
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
     username: ""
     url: ""
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -134,7 +134,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -183,7 +183,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
