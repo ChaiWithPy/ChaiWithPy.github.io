@@ -4,14 +4,10 @@ title: How to Land the Adobe India Women In Tech Scholarship - Tips & Insights
 categories: non-technical-blogs
 date: 2023-03-08
 authors: Supriti Vijay
+cover: assets/img/Adobe_banner.png
 ---
 
 <!-- <b>View Counter:</b><a href="{{ page.url | prepend: 'https://hits.sh/chaiwithpy.github.io' }}"><img alt="Hits" src="{{ page.url | prepend: 'https://hits.sh/chaiwithpy.github.io' | append: '.svg?label=Views'}}"/></a> -->
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Adobe_banner.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
 Celebrating women everywhere, this Women’s day, I adopt the global theme of *#EmbraceEquity*, initiating my vision to help women become better informed about the opportunities and scholarships available in the tech field. In this series of blog posts, I will be decoding the application process of various women-centric opportunities and sharing my tips for helping your application stand out. 
 
