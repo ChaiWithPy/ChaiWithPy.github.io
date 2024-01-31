@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to Land the Adobe India Women In Tech Scholarship - Tips & Insights
+title: "How to Land the Adobe India Women In Tech Scholarship - Tips & Insights"
 categories: non-technical-blogs
 date: 2023-03-08
 authors: Supriti Vijay
-cover: assets/img/Adobe_banner.png
+cover: "assets/img/Adobe_banner.png"
 ---
 
 <!-- <b>View Counter:</b><a href="{{ page.url | prepend: 'https://hits.sh/chaiwithpy.github.io' }}"><img alt="Hits" src="{{ page.url | prepend: 'https://hits.sh/chaiwithpy.github.io' | append: '.svg?label=Views'}}"/></a> -->
