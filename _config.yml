@@ -54,10 +54,10 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: non-technical-blogs
+  - cat: non technical blogs
     desc: "Non Technical Blogs"
 
-  -cat: technical-blogs
+  -cat: technical blogs
     desc: "Technical Blogs"
 
 # Social icons and sharing options
