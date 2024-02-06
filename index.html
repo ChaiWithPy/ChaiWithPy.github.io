@@ -15,6 +15,9 @@ layout: default
   <div class="wrapper">
     <ul class="post-list">
       {% for post in site.posts %}
+        {% if post.categories contains 'non-technical-blogs' %}
+          {% continue %}
+        {% endif %}
         <li>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
